@@ -27,6 +27,7 @@ namespace Console_draft
             Console.ReadLine();
 
             Two two = new Two();
+            Console.WriteLine("YES YES YES");
         }
 
         public static int[] Distinct(int[] array)
